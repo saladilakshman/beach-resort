@@ -1,0 +1,39 @@
+#second-nav{
+  list-style-type: none;
+}
+.nav-link{
+  color:white;
+}
+.nav-link:hover{
+  color:orange;
+}
+.nav-link.active{
+  color:orange;
+}
+#farrow{
+  background-color:orangered;
+  width:40px;
+  height:40px;
+  padding:9px;
+  font-weight:lighter;
+  border-radius:40px;
+  color:white;
+}
+.arrow{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 46px;
+  padding-bottom:4px;
+transition:0.3s;
+}
+.main-footer-text{
+  color:orange;
+}
+#icons{
+  color:white;
+  font-size:25px;
+}
+#line{
+  border-bottom:1px solid white;
+}

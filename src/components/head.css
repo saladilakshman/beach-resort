@@ -1,0 +1,163 @@
+#event-image{
+  height:590px;
+ top:0;
+ margin-top:-10em;
+}
+h1{
+  position:relative;
+  top:-250px;
+}
+#first-row{
+  margin:auto;
+}
+.cards{
+  background-color:white;
+  height:100%;
+  width:100%
+}
+#type-text{
+  color:orange;
+  font-weight:bolder;
+  font-size:20px;
+}
+#second-row{
+  margin-top:2em;
+}
+#fourthrow{
+  margin-left:12em;
+}
+input{
+  border:none;
+  width:300px;
+  height:30px;
+}
+button{
+  color:white;
+  background-color:black;
+  border-radius:12px;
+  padding:10px;
+  border:none;
+}
+#block{
+  background-color:rgb(255, 94, 0);
+}
+#room-container{
+  margin-top:18em;
+}
+#room-text{
+  color:orange;
+  font-size:30px;
+  font-weight:bolder;
+}
+#dining-container{
+  margin-top:18em;
+}
+.box{
+  padding-top:5px;
+  margin-top:5em;
+}
+#offer-text{
+color:orange;
+font-size:30px;
+font-weight:bolder;
+}
+.first-block{
+  background-color:orangered;
+  height:auto;
+}
+.offer-image{
+  width:95%;
+  margin:1em;
+}
+.offer-image:hover{
+  background-color:rgb(134, 134, 134);
+}
+#package-text{
+  color:white;
+  font-size:25px;
+}
+ul{
+  color:white;
+  cursor:pointer;
+  margin:0.5em;
+  
+}
+li{
+  padding:2px;
+  transition:0.5s;
+}
+#order-two{
+margin-top:1em;
+}
+#gallery-container{
+  margin-top:20em;
+}
+#gallery-button{
+  background-color:white;
+  outline-color:white;
+}
+#gallery-button:hover{
+  color:orange;
+}
+#gallery-button:active{
+  color:orange;
+}
+.grid-container {
+  display: grid;
+  grid: 250px  300px 200px;
+}
+#activity-container{
+  margin-top:20em;
+}
+.activity-text{
+  color:orange;
+  font-size:30px;
+  font-weight:bolder;
+}
+#contact-container{
+  margin-top:20em;
+}
+.contact-text{
+  font-size:30px;
+  color:orange;
+}
+.my-masonry-grid {
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: -30px; /* gutter size offset */
+  width: auto;
+}
+.my-masonry-grid_column {
+  padding-left: 90px; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Style your items */
+.my-masonry-grid_column > div { /* change div to reference your elements you put in <Masonry> */
+  margin-bottom: 30px;
+}
+#location-logo{
+  font-size:30px;
+}
+#contact-form-header{
+  color:orange;
+  font-size:30px;
+}
+input{
+  border:0.2px solid black;
+}
+#form-button{
+  background-color:rgb(190, 186, 186);
+  border-radius:0px;
+  padding:14px;
+  color:black;
+}
+#map{
+  width:100px;
+  height:200px;
+}
+#map-info{
+  margin-top:36em;
+  position:relative;
+}
